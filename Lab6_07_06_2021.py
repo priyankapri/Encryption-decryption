@@ -1,8 +1,4 @@
 '''
-Programmer: Priyanka P
-PittUserID = prp37
-Project2 : Lab4-5-6
-Date: July,7th 2021
 Aim: Develop a function to encrypt and decrypt text files
 '''
 # Lab3
